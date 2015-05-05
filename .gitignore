@@ -1,0 +1,11 @@
+.*
+
+!.gitignore
+
+.history
+.idea
+*.iml
+modules
+project/project
+project/target
+target
